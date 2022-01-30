@@ -16,7 +16,6 @@
 - 📖 I am currently reading **Shunya** by SRI M
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Art & Music
 - 👯 We can connect to play F1 🏎️
-- ⚡ Fun fact: I wanted to become a home cook growing up
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
