@@ -10,7 +10,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm an Appliation Development Analyst working for Accenture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Sr. Data Engineering Analyst working for Accenture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Advanced Business Analytics - IIM Ahmedabad
 - 💻 I regurlary use **.sql**, **.py**, **.R**, **.twb**, **ETL**
 - 📖 I am currently reading **Shunya** by SRI M
