@@ -23,7 +23,6 @@
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/veeva/veeva-icon.svg" alt="Veeva" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="55"/>
 </p>
