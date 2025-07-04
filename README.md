@@ -20,12 +20,13 @@
 
 
 ### 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GCP-1A73E8?style=flat-square&logo=google-cloud&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-![Informatica](https://img.shields.io/badge/Informatica-F36F21?style=flat-square&logo=Informatica&logoColor=white)  
-![Adobe](https://img.shields.io/badge/Adobe%20Analytics-2D2D2D?style=flat-square&logo=adobe&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-1A73E8?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Informatica-F36F21?style=flat-square&logo=Informatica&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Analytics-2D2D2D?style=flat-square&logo=adobe&logoColor=white"/>
+</p>
 ---
