@@ -25,6 +25,7 @@
       <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/veeva/veeva-icon.svg" alt="Veeva" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="Google Cloud" width="45" height="55"/>
 </p>
 
 ---
