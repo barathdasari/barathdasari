@@ -18,21 +18,14 @@
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Art & Music
 - 👯 We can connect to play F1 🏎️
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/veeva/veeva-icon.svg" alt="Veeva" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud" width="100"/>
-</p>
 
-### 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 🚀 Tech Stack  
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GCP-1A73E8?style=flat&logo=google-cloud&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-E25A1C?style=flat&logo=jupyter&logoColor=white)  
+![Informatica](https://img.shields.io/badge/Informatica-F36F21?style=flat&logo=Informatica&logoColor=white)  
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-2D2D2D?style=flat&logo=adobe&logoColor=white)
 
 ---
