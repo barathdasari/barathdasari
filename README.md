@@ -10,10 +10,11 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Sr. Data Engineering Analyst working for Accenture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Sr. Data Science Consultant @ Verizon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Advanced Business Analytics - IIM Ahmedabad
 - 💻 I regurlary use **.sql**, **.py**, **.R**, **.twb**, **ETL**
-- 📖 I am currently reading **Shunya** by SRI M
+- 📖 I am currently reading **Eleanor Oliphant is Completely Fine** by Gail Honeyman
+
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Art & Music
 - 👯 We can connect to play F1 🏎️
 
